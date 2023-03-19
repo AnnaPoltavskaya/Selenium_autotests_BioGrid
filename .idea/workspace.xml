@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab1a0aaa-dc93-49db-9f6b-81db4cca4362" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/DownloadGeneList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DownloadGeneList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DownloadGeneList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DownloadGeneList.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M9WnuQNATd0eWd1cLchsdtdleW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anna/QA/Selenium_autotests_BioGrid&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DownloadGeneList.downloadGeneListAPOETabType">
+    <configuration name="DownloadGeneList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_auto_BioGrid" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DownloadGeneList" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadGeneList.downloadGeneListA2MMatrixType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_auto_BioGrid" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DownloadGeneList" />
+      <option name="METHOD_NAME" value="downloadGeneListA2MMatrixType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadGeneList.downloadGeneListAPOEMatrixType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_auto_BioGrid" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DownloadGeneList" />
+      <option name="METHOD_NAME" value="downloadGeneListAPOEMatrixType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadGeneList.downloadGeneListAPOETabType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_auto_BioGrid" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DownloadGeneList" />
+      <option name="METHOD_NAME" value="downloadGeneListAPOETabType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadGeneList.downloadGeneListTREM2TabType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_auto_BioGrid" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DownloadGeneList" />
+      <option name="METHOD_NAME" value="downloadGeneListTREM2TabType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DownloadGeneList.downloadGeneListAPOETabType" />
+        <item itemvalue="JUnit.DownloadGeneList.downloadGeneListAPOEMatrixType" />
+        <item itemvalue="JUnit.DownloadGeneList.downloadGeneListTREM2TabType" />
+        <item itemvalue="JUnit.DownloadGeneList.downloadGeneListA2MMatrixType" />
+        <item itemvalue="JUnit.DownloadGeneList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab1a0aaa-dc93-49db-9f6b-81db4cca4362" name="Changes" comment="" />
+      <created>1677180449387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677180449387</updated>
+    </task>
+    <servers />
+  </component>
+</project>
